@@ -22,3 +22,4 @@ function draw() {
 //This makes an ellipse (wherever your mouse is horizontal, vertical, 80 pixels tall, 80 pixels wide)
 //try changing the 80s and see what happens
 }
+
